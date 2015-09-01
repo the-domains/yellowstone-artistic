@@ -1,6 +1,6 @@
 name: yellowstone-artistic
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.98667
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#6b6e68'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0.0625
   rhythmicContrast: 0.5
 purpose:
   - name: follow
